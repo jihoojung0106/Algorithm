@@ -1,1 +1,1 @@
-# algorithm
+# 22-2 SNU 알고리즘 
